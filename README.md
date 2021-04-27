@@ -25,4 +25,4 @@ Additional operating costs like a new chair lift only add to the overall inclina
 The data does not go over how much each resort’s expenses are when it comes to maintaining ski runs, facilities, etc. I would include recommendation for additional data set of cost of maintenance for Big Mountain Resort.
 
 ## Create a Slide Deck for the Executive Team - Step 7
-[slides](https://docs.google.com/presentation/d/1Vm8YZ-FMNmhEB30RXh66eBvlTzugZpCmkXctqDQjgeE/edit?usp=sharing)
+[Google slides](https://docs.google.com/presentation/d/1Vm8YZ-FMNmhEB30RXh66eBvlTzugZpCmkXctqDQjgeE/edit?usp=sharing)
