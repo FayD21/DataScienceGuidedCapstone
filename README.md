@@ -24,4 +24,5 @@ I would suggest to the executives of the company that adjusting the ticket price
 Additional operating costs like a new chair lift only add to the overall inclination to boost ticket prices. Extending the vertical drop, even with the additional costs of chair lifts and snow making area, is the TOP scenario for increased revenue. Closing 1-3 runs that are difficult/expensive for the resort to maintain could be done, but closing 6 or more runs leads to a drop in ticket price.
 The data does not go over how much each resort’s expenses are when it comes to maintaining ski runs, facilities, etc. I would include recommendation for additional data set of cost of maintenance for Big Mountain Resort.
 
-
+## Create a Slide Deck for the Executive Team - Step 7
+[slides](https://docs.google.com/presentation/d/1Vm8YZ-FMNmhEB30RXh66eBvlTzugZpCmkXctqDQjgeE/edit?usp=sharing)
