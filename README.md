@@ -11,7 +11,8 @@ Big Mountain Resort is not realizing its full potential of the facilites it offe
 ### Body of report: Data - Methods&Analysis - Results
 
 ### Data - Most important data used for analysis (top 8 features) (copy supporting tables if needed)
-We were given 
+We were given data from analysis of most of the resorts in the United States, a proper playground for Big Mountain Resorts competition. From 
+
 
 
 ### Methods/Analysis - write down methods used & wrtie down my analysis of it, and any conclusions made
