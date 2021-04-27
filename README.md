@@ -3,7 +3,7 @@
 ## Guided Capstone Project Report - Step 6
 ### Write a 1-2 page report summarizing your recommendations for Big Mountain Resort. Be sure to include the figures you created to back up your recommendations 
 
-### audience = BMR
+### Audience = Big Mountain Resort Stakeholders
 
 ### Introduction 
 Big Mountain Resort is not realizing its full potential of the facilities it offers to skiers and thus they need to select a better price for their tickets. Since installing a ski lift, their operation costs have increase by $1.54 million dollars. This report was requested to summarize our findings of what ticket price they could be charging with the data we were given. 
